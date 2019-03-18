@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT summary_maker_1451.wsgi:application
